@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2ae47eeb.chunk.css",
+    "main.js": "./static/js/main.7bb86270.chunk.js",
+    "main.js.map": "./static/js/main.7bb86270.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.19a90a80.js",
+    "runtime-main.js.map": "./static/js/runtime-main.19a90a80.js.map",
+    "static/js/2.85f15545.chunk.js": "./static/js/2.85f15545.chunk.js",
+    "static/js/2.85f15545.chunk.js.map": "./static/js/2.85f15545.chunk.js.map",
+    "static/js/3.807ac909.chunk.js": "./static/js/3.807ac909.chunk.js",
+    "static/js/3.807ac909.chunk.js.map": "./static/js/3.807ac909.chunk.js.map",
+    "static/js/4.9d1a4626.chunk.js": "./static/js/4.9d1a4626.chunk.js",
+    "static/js/4.9d1a4626.chunk.js.map": "./static/js/4.9d1a4626.chunk.js.map",
+    "static/js/5.175fc6ea.chunk.js": "./static/js/5.175fc6ea.chunk.js",
+    "static/js/5.175fc6ea.chunk.js.map": "./static/js/5.175fc6ea.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "./static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.85f15545.chunk.js.LICENSE.txt": "./static/js/2.85f15545.chunk.js.LICENSE.txt",
+    "static/js/3.807ac909.chunk.js.LICENSE.txt": "./static/js/3.807ac909.chunk.js.LICENSE.txt",
+    "static/js/4.9d1a4626.chunk.js.LICENSE.txt": "./static/js/4.9d1a4626.chunk.js.LICENSE.txt",
+    "static/js/5.175fc6ea.chunk.js.LICENSE.txt": "./static/js/5.175fc6ea.chunk.js.LICENSE.txt",
+    "static/media/SendUSDC.3eb80358.gif": "./static/media/SendUSDC.3eb80358.gif",
+    "static/media/SendUSDC.bf899978.png": "./static/media/SendUSDC.bf899978.png",
+    "static/media/WizardEmoji2.9ccf6cc5.png": "./static/media/WizardEmoji2.9ccf6cc5.png",
+    "static/media/eth-logo.a85b6de0.png": "./static/media/eth-logo.a85b6de0.png",
+    "static/media/githubIcon.539ab584.png": "./static/media/githubIcon.539ab584.png",
+    "static/media/loadingIcon.9a83d4af.png": "./static/media/loadingIcon.9a83d4af.png",
+    "static/media/twitterIcon.a01fc147.png": "./static/media/twitterIcon.a01fc147.png",
+    "static/media/usd-coin-usdc-logo.c4477cfc.png": "./static/media/usd-coin-usdc-logo.c4477cfc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19a90a80.js",
+    "static/js/2.85f15545.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.7bb86270.chunk.js"
+  ]
+}

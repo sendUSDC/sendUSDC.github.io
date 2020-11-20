@@ -1,0 +1,24 @@
+/*
+  # Only connect to this site and subdomains via HTTPS for the next 1 week. https://hstspreload.org/?domain=sendusdc.net
+  Strict-Transport-Security: max-age=2592000; includeSubDomains;
+
+  # X-Frame-Options tells the browser whether you want to allow your site to be framed or not. By preventing a browser from framing your site you can defend against attacks like clickjacking.
+  X-Frame-Options: SAMEORIGIN
+
+  # Prevent browsers from incorrectly detecting non-scripts as scripts
+  X-Content-Type-Options: nosniff
+
+  # Don't load any resource type not explicitly enabled
+  # Disable plugins like Flash or Silverlight
+  # Load images, scripts, stylesheets and fonts from self
+  Content-Security-Policy:  frame-ancestors 'self';default-src 'none'; connect-src https://www.google-analytics.com https://api.coinbase.com/v2/prices/ETH-USD/spot; img-src 'self' https://www.google-analytics.com data:; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com https://ssl.google-analytics.com; style-src 'self' 'unsafe-inline'; base-uri 'self';  form-action 'self'; manifest-src 'self';
+
+  # X-XSS-Protection sets the configuration for the cross-site scripting filter built into most browsers.
+  X-XSS-Protection: 1; mode=block
+
+  # Referrer Policy is a new header that allows a site to control how much information the browser includes with navigations away from a document and should be set by all sites.
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=()
+
+  # Expire rules for static content
+  Cache-Control: max-age=0, must-revalidate, public
