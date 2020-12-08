@@ -15,11 +15,11 @@ sendUSDC V2 using tranditional (Approve and TransferFrom) - https://sendusdc.net
 
 ETHGlobal show case link - https://hack.ethglobal.co/showcase/spell-caster-reczd5XuUZ66ORG26
 
-## Function call Graph :
+## Function call graph :
 
 ![text](https://raw.githubusercontent.com/sendUSDC/sendusdc.github.io/main/InheritanceGraph.JPG "Function call Graph")
 
-## Inheritance Graph :
+## Inheritance graph :
 
 ![text2](https://raw.githubusercontent.com/sendUSDC/sendusdc.github.io/main/functioncall.JPG "Inheritance Graph")
 
