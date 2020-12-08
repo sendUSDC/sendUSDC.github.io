@@ -1,12 +1,12 @@
 # Project description :
 
-sendUSDC V1 with EIP-3009 -  https://sendusdc.github.io 
+**sendUSDC V1** with EIP-3009 -  https://sendusdc.github.io 
 
 Switch network to Ropsten testnet before testing. Mainnet implementation is not working.
 
 For more info read up on [EIP3009](https://eips.ethereum.org/EIPS/eip-3009) by [Coinbase](https://www.coinbase.com/).
 
-sendUSDC V2 using tranditional (Approve and TransferFrom) - https://sendusdc.net 
+**sendUSDC V2** using tranditional (Approve and TransferFrom) - https://sendusdc.net 
 
 # Features : 
 - Contract input validation.
